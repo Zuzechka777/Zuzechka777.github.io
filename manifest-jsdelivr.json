@@ -4,11 +4,11 @@
   "manifest_version": 1,
   "author": "You",
   "description": "Roll dice and track combat: mark a token as target, roll to hit, roll damage or healing and watch HP update automatically.",
-  "icon": "https://zuzechka777.github.io/icon.svg",
+  "icon": "https://cdn.jsdelivr.net/gh/Zuzechka777/Zuzechka777.github.io@main/icon.svg",
   "action": {
     "title": "Dice & Combat",
-    "icon": "https://zuzechka777.github.io/icon.svg",
-    "popover": "https://zuzechka777.github.io/index.html",
+    "icon": "https://cdn.jsdelivr.net/gh/Zuzechka777/Zuzechka777.github.io@main/icon.svg",
+    "popover": "https://cdn.jsdelivr.net/gh/Zuzechka777/Zuzechka777.github.io@main/index.html",
     "height": 640,
     "width": 380
   }
